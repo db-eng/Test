@@ -1,3 +1,4 @@
 __author__ = 'D. Beilic'
-print "hello"
-print "ciaoooooooooooooo"
+from languages import lang
+print lang("hello")
+print lang("ciaoooooooooooooo")
